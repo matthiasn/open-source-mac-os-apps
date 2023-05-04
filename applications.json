@@ -5158,6 +5158,19 @@
             "languages": [
                 "swift"
             ]
+        },  {
+            "short_description": "Life journal and accountability tool, for tracking your best life.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/matthiasn/lotti",
+            "title": "Lotti",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "dart"
+            ]
         },
         {
             "short_description": "Lightweight search-as-you-type clipboard manager. ",
